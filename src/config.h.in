@@ -1,0 +1,8 @@
+// Turn CMake options into #defines for use in code
+#ifndef config_h
+#define config_h
+
+#cmakedefine PROJECT_BASE_DIR "@PROJECT_BASE_DIR@/"
+#cmakedefine PROJECT_DATA_DIR "@PROJECT_DATA_DIR@/"
+
+#endif

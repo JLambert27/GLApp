@@ -1,0 +1,10 @@
+James Lambert
+pj40539
+jlamb2@umbc.edu
+
+
+Assignment 5
+
+As it stands this project allows for toggling between using the regular texture map style and the normal map style, except I couldn't figure out how to create the TBN matrix to convert from the normal map to view space, so the normal map style doesn't work. I couldn't get to doing the relief map. 
+
+I didn't receive any help outside of referencing Piazza and the textbook.
